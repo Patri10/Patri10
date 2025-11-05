@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/patricio-mendoza-3a39701a5/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tucorreo@ejemplo.com">
+  <a href="mailto:patrimendoza195@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Patri10">
