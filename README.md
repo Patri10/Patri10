@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:4FC08D&height=200&section=header&text=Patricio%20Mendoza%20👨‍💻&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<h3 align="center">💻 Full Stack Developer | .NET | NestJS | Vue.js | SQL | MongoDB</h3>
+<h3 align="center">💻 Backend Developer | .NET | NestJS | TS | SQL | MongoDB</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patricio-mendoza-3a39701a5/">
@@ -21,12 +21,15 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy **Desarrollador Full Stack** con experiencia en el desarrollo de soluciones web completas, combinando la lógica de negocio del **backend** con la experiencia del usuario en el **frontend**.
+Soy **Programador Backend** enfocado en construir sistemas robustos, escalables y eficientes. Mi enfoque principal es el desarrollo de lógica de negocio sólida aplicando **Clean Architecture** para garantizar la mantenibilidad y calidad del código.
 
-🎯 Backend con **.NET, ASP.NET Core, NestJS, C#, TypeScript, SQL y MongoDB**  
-🎨 Frontend con **Vue.js, JavaScript, HTML y CSS**  
-📍 Vivo en Argentina 🇦🇷  
-🚀 En constante aprendizaje y crecimiento profesional  
+🎯 **Backend:** .NET (C#), ASP.NET Core, TypeScript y NestJS.
+🏗️ **Arquitectura:** Clean Architecture y patrones de diseño.
+🗄️ **Bases de Datos:** SQL (PostgreSQL), MongoDB y experiencia con Supabase.
+🎨 **Frontend:** Conocimientos en Vue.js para integración de soluciones integrales.
+📍 Argentina 🇦🇷
+
+🚀 En constante evolución, priorizando siempre las mejores prácticas de desarrollo.
 
 ---
 
